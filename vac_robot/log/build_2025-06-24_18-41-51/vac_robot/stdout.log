@@ -1,0 +1,28 @@
+running egg_info
+writing build/vac_robot/vac_robot.egg-info/PKG-INFO
+writing dependency_links to build/vac_robot/vac_robot.egg-info/dependency_links.txt
+writing entry points to build/vac_robot/vac_robot.egg-info/entry_points.txt
+writing requirements to build/vac_robot/vac_robot.egg-info/requires.txt
+writing top-level names to build/vac_robot/vac_robot.egg-info/top_level.txt
+reading manifest file 'build/vac_robot/vac_robot.egg-info/SOURCES.txt'
+writing manifest file 'build/vac_robot/vac_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying vac_robot/imu.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot
+copying vac_robot/system_monitor.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot
+copying vac_robot/__init__.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot
+copying vac_robot/lidar.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot
+copying vac_robot/main.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot
+running install
+running install_lib
+copying /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot/main.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages/vac_robot
+byte-compiling /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages/vac_robot/main.py to main.cpython-310.pyc
+running install_data
+copying resource/vac_robot -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/share/ament_index/resource_index/packages
+copying package.xml -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/share/vac_robot
+running install_egg_info
+removing '/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages/vac_robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/vac_robot/vac_robot.egg-info to /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages/vac_robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing sensor_publisher script to /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/vac_robot
+writing list of installed files to '/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/install.log'

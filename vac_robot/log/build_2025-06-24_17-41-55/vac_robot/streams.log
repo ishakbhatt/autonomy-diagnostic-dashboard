@@ -1,0 +1,29 @@
+[0.714s] Invoking command in '/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot': PYTHONPATH=/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/vac_robot build --build-base /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build install --record /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/install.log --single-version-externally-managed install_data
+[0.982s] running egg_info
+[0.999s] writing build/vac_robot/vac_robot.egg-info/PKG-INFO
+[0.999s] writing dependency_links to build/vac_robot/vac_robot.egg-info/dependency_links.txt
+[0.999s] writing entry points to build/vac_robot/vac_robot.egg-info/entry_points.txt
+[0.999s] writing requirements to build/vac_robot/vac_robot.egg-info/requires.txt
+[0.999s] writing top-level names to build/vac_robot/vac_robot.egg-info/top_level.txt
+[1.034s] reading manifest file 'build/vac_robot/vac_robot.egg-info/SOURCES.txt'
+[1.034s] writing manifest file 'build/vac_robot/vac_robot.egg-info/SOURCES.txt'
+[1.034s] running build
+[1.034s] running build_py
+[1.035s] copying vac_robot/imu.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot
+[1.035s] copying vac_robot/__init__.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot
+[1.035s] copying vac_robot/lidar.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot
+[1.035s] copying vac_robot/main.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot
+[1.035s] running install
+[1.037s] running install_lib
+[1.054s] copying /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build/lib/vac_robot/imu.py -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages/vac_robot
+[1.055s] byte-compiling /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages/vac_robot/imu.py to imu.cpython-310.pyc
+[1.056s] running install_data
+[1.056s] copying resource/vac_robot -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/share/ament_index/resource_index/packages
+[1.056s] copying package.xml -> /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/share/vac_robot
+[1.056s] running install_egg_info
+[1.074s] removing '/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages/vac_robot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.074s] Copying build/vac_robot/vac_robot.egg-info to /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages/vac_robot-0.0.0-py3.10.egg-info
+[1.075s] running install_scripts
+[1.171s] Installing sensor_publisher script to /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/vac_robot
+[1.171s] writing list of installed files to '/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/install.log'
+[1.186s] Invoked command in '/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot' returned '0': PYTHONPATH=/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/install/vac_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/vac_robot build --build-base /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/build install --record /home/isha/repos/autonomy-diagnostic-dashboard/vac_robot/build/vac_robot/install.log --single-version-externally-managed install_data

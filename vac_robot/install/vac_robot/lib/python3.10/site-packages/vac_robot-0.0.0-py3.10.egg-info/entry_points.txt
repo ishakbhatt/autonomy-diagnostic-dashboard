@@ -1,0 +1,2 @@
+[console_scripts]
+sensor_publisher = vac_robot.main:main

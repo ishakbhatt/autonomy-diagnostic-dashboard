@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: vac_robot
+Version: 0.0.0
+Summary: Vacuum Robot Publisher
+Maintainer: isha
+Maintainer-email: ishakbhatt25@gmail.com
+License: TODO: License declaration
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary
